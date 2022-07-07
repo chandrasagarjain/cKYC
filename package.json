@@ -7,7 +7,7 @@
     "express": "^4.17.1",
     "jszip": "^3.2.2",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "xlsx": "^0.15.5"
   },
   "devDependencies": {},
