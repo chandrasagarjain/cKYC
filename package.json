@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "xlsx": "^0.15.5"
